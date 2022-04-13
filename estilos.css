@@ -1,0 +1,44 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+</style>
+
+
+.body{
+	background: #dedede;
+}
+
+
+.contenedor{
+	width: 295px;
+	height: 600px;
+	border: 1px solid black;
+	margin:0 auto;
+	background: white;
+}
+.titulo{
+	
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 24px;
+	
+}
+.compleaños	{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	
+
+}
+.trabajo {
+	text-align: center;
+}
+.notificacion {
+	text-align: center;
+}
+.boton {
+	background: blueviolet;
+	text-align: right;
+	top: auto 0;
+;
+}
