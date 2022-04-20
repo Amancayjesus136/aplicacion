@@ -1,44 +1,148 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-</style>
 
-
-.body{
-	background: #dedede;
-}
-
-
-.contenedor{
-	width: 295px;
-	height: 600px;
+.contenedor {
+	width: 300px;
+	height: 520px;
 	border: 1px solid black;
 	margin:0 auto;
 	background: white;
-}
-.titulo{
-	
-	text-align: center;
-	font-family: 'Poppins', sans-serif;
-	font-weight: 400;
-	font-size: 24px;
-	
-}
-.compleaños	{
-	font-family: 'Poppins', sans-serif;
-	font-weight: 400;
-	font-size: 16px;
-	
 
 }
-.trabajo {
-	text-align: center;
-}
-.notificacion {
-	text-align: center;
-}
 .boton {
-	background: blueviolet;
-	text-align: right;
-	top: auto 0;
-;
+	background: linear-gradient(#941B80, #2B2468);
+	border-radius: 20px;
+	display: inline-block;
+	margin: 0 180px;
+	margin-top: 12px;
+	width: 108px;
+	height: 36px;
+	left: 232px;
+	color: white;
+}
+.titulo {
+	font-family: 'Poppins';
+	width: 229px;
+	height: 24px;
+	left: 55px;
+	font-weight: 250;
+	font-size: 20px;
+	line-height: 24px;
+	position: relative;
+	margin-top: 45px;
+	letter-spacing: 0.38px;
+	color: #686868;
+}
+.linea1 {
+	margin-top: 10px;
+	border: 1px solid #CCCCCC;
+}
+.fa-calendar{
+	position: absolute;
+	padding: 10px;
+	margin-top: 10px;
+}
+.titulo2 {
+	
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 24px;
+	position: static;
+	margin-top: 25px;
+	margin-left: 40px;
+}
+.hora {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 9px;
+	line-height: 24px;
+	position: static;
+	margin-top: -35px;
+	margin-left: 250px;
+
+}
+.hora1 {
+	color: red;
+}
+.linea2 {
+	margin-top: 15px;
+	border: 1px solid #CCCCCC;
+}
+.fa-th-large {
+	position: absolute;
+	padding: 10px;
+	margin-top: 5px;
+}
+.titulo3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 24px;
+	position: static;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.fa-bell-o {
+	position: absolute;
+	padding: 10px;
+	margin-top: 5px;
+}
+.titulo4 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 24px;
+	position: static;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.hora2 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 9px;
+	line-height: 24px;
+	position: static;
+	margin-top: -37px;
+	margin-left: 220px;
+}
+.fa-circle-thin {
+	position: absolute;
+	padding: 10px;
+	margin-top: 5px;
+}
+.titulo5 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 24px;
+	position: static;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.fa-bars {
+	position: absolute;
+	padding: 10px;
+	margin-top: 5px;
+}
+.titulo6 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 24px;
+	position: static;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+.fa-link {
+	position: absolute;
+	padding: 10px;
+	margin-top: 5px;
+}
+.titulo7 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 24px;
+	position: static;
+	margin-top: 20px;
+	margin-left: 40px;
 }
